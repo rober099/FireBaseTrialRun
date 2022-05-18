@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FireBaseTrialRun</string>
+    <string name="regBtn">Register</string>
+    <string name="loginBtn">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+</resources>
